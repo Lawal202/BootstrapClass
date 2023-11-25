@@ -1,0 +1,109 @@
+.container1{
+    background-color: #03164c;
+    height: 100px;
+}
+
+.logo{
+    padding: 30px;
+    padding-left: 80px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    padding: 30px;
+}
+
+a:hover{
+    background-color: white;
+    color: #03164c;
+    text-decoration: underline;
+}
+
+.link{
+    padding-top: 30px;
+}
+
+#search:hover{
+    background-color: none;
+    border: 2px solid white;
+}
+
+.jumbo{
+    background-color: grey;
+    width: 900px;
+    height: 300px;
+    text-align: center;
+    margin: auto;
+    margin-top: 250px;
+    border-radius: 15px;
+}
+
+.container2{
+    background-image: url("../images/banner-bg.png");
+    height: 900px;
+    background-size: cover;
+}
+
+.mybtn1{
+    color: white;
+    background-color: #03164c;
+    width: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+ 
+}
+
+.about{
+    text-align: center;
+}
+
+.about2{
+    border: solid 1px cyan;
+    width: 150px;
+    margin: auto;
+}
+
+.mym1{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.mygym{
+    background-color: black;
+    color: white;
+    height: 700px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-align: justify;
+    
+}
+
+.mybtn3{
+    background-color: orangered;
+    color: white;
+}
+
+.picgym{
+    background-image: url(../images/about-bg.png);
+    background-size: cover;
+    height: 700px;
+}
+
+#cl1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+#lrm{
+    text-align: center;
+}
+
+.Class1{
+    border: solid 1px cyan;
+    width: 180px;
+    margin: auto;   
+}
